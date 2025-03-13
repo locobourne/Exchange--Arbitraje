@@ -1,4 +1,4 @@
-# Exchange--Arbitraje
+# Exchange-Arbitraje
 
 Intento de crear una aplicacion para encontrar arbitrajes entre exchanges
 
